@@ -4,5 +4,9 @@
   "command": "restart-browser",
   "createdAt": "2026-07-13T12:06:03.435Z",
   "expiresAt": "2026-07-13T12:16:03.435Z",
-  "createdBy": "superadmin"
+  "createdBy": "superadmin",
+  "status": "completed",
+  "result": "2026-07-13T12:06:09Z execute_command: restart-browser\nok: chromium process signalled",
+  "completedAt": "2026-07-13T12:06:11Z",
+  "handledBy": "khif-infoscreen-01"
 }
