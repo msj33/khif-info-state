@@ -1,12 +1,8 @@
 {
-  "id": "2026-07-13T13:32:22.563Z-6a9068",
+  "id": "2026-07-13T13:35:44.007Z-fc5560",
   "deviceId": "khif-infoscreen-01",
   "command": "reload-page",
-  "createdAt": "2026-07-13T13:32:22.563Z",
-  "expiresAt": "2026-07-13T13:42:22.563Z",
-  "createdBy": "superadmin",
-  "status": "failed",
-  "result": "2026-07-13T13:32:27Z execute_command: reload-page\nerror: browser process exists but no window could be targeted",
-  "completedAt": "2026-07-13T13:32:27Z",
-  "handledBy": "khif-infoscreen-01"
+  "createdAt": "2026-07-13T13:35:44.007Z",
+  "expiresAt": "2026-07-13T13:45:44.007Z",
+  "createdBy": "superadmin"
 }
