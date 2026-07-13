@@ -1,12 +1,8 @@
 {
-  "id": "2026-07-13T12:47:39.154Z-ad975e",
+  "id": "2026-07-13T12:51:46.548Z-aab2f5",
   "deviceId": "khif-infoscreen-01",
-  "command": "reload-page",
-  "createdAt": "2026-07-13T12:47:39.154Z",
-  "expiresAt": "2026-07-13T12:57:39.154Z",
-  "createdBy": "superadmin",
-  "status": "failed",
-  "result": "2026-07-13T12:47:45Z execute_command: reload-page\nerror: could not navigate to https://msj33.github.io/khif-info/",
-  "completedAt": "2026-07-13T12:47:45Z",
-  "handledBy": "khif-infoscreen-01"
+  "command": "restart-browser",
+  "createdAt": "2026-07-13T12:51:46.548Z",
+  "expiresAt": "2026-07-13T13:01:46.548Z",
+  "createdBy": "superadmin"
 }
