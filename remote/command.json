@@ -4,5 +4,9 @@
   "command": "screen-off",
   "createdAt": "2026-07-13T12:12:19.587Z",
   "expiresAt": "2026-07-13T12:22:19.587Z",
-  "createdBy": "superadmin"
+  "createdBy": "superadmin",
+  "status": "completed",
+  "result": "2026-07-13T12:12:23Z execute_command: screen-off\n2026-07-13T12:12:23Z Screen off succeeded\nok: screen off",
+  "completedAt": "2026-07-13T12:12:24Z",
+  "handledBy": "khif-infoscreen-01"
 }
