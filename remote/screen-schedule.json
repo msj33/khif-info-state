@@ -4,7 +4,7 @@
     "monday": {
       "enabled": true,
       "startTime": "11:00",
-      "endTime": "17:00"
+      "endTime": "21:00"
     },
     "tuesday": {
       "enabled": true,
@@ -37,6 +37,6 @@
       "endTime": "21:00"
     }
   },
-  "updatedAt": "2026-07-13T10:09:59.535Z",
+  "updatedAt": "2026-10-19T16:43:34.056Z",
   "updatedBy": "khif"
 }
