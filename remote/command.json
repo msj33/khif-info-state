@@ -4,5 +4,9 @@
   "command": "reload-schedule",
   "createdAt": "2026-10-19T18:10:13.399Z",
   "expiresAt": "2026-10-19T18:20:13.399Z",
-  "createdBy": "khif"
+  "createdBy": "khif",
+  "status": "completed",
+  "result": "2026-10-19T18:10:18Z execute_command: reload-schedule\n2026-10-19T18:10:20Z Schedule reload succeeded\nok: schedule reloaded",
+  "completedAt": "2026-10-19T18:10:20Z",
+  "handledBy": "khif-infoscreen-01"
 }
